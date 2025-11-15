@@ -7,9 +7,9 @@
   <tr>
 <td style="vertical-align: top; padding-right: 20px; max-width: 500px;">
   <p align="justify">
-    <b>Hi there!</b> I'm <b>Nicholas</b>, a passionate Computer Science student at Wilfrid Laurier University. 
-    As an aspiring software engineer, I'm dedicated to building robust, scalable solutions in the educational and productivity space.
-    I also create content on <a href="https://www.youtube.com/@NicholasSobolev" target="_blank">YouTube</a>, sharing tips on development, productivity, and technology.
+    <b>Hi there!</b> I'm <b>Nicholas</b>, a Computer Science student at Wilfrid Laurier University! 
+    As an aspiring software engineer, I'm interested in building solutions in the educational and productivity space.
+    I also create content on <a href="https://www.youtube.com/@NicholasSobolev" target="_blank">YouTube</a>, where I make videos on development tools, productivity, and technology.
   </p>
 </td>
     <td style="vertical-align: top;">
